@@ -1,0 +1,7 @@
+value     : 45000
+reference : 40500
+pointer   : 40500
+returned, merit then sports: 34425
+in place, sports after merit: 34425
+sizeof(long long)=8, sizeof(Student)=1040, sizeof(reference-passed Student) ~ pointer size 8
+45000 45000

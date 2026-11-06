@@ -1,0 +1,6 @@
+charge(2)           -> [int grams] 8
+charge(2.0f)        -> [double kg, express=0, insured=0] 8000
+charge(2.5)         -> [double kg, express=0, insured=0] 10000
+charge(2.5,true)    -> [double kg, express=1, insured=0] 13000
+charge(2.5,true,true)-> [double kg, express=1, insured=1] 14500
+charge(Parcel)      -> [Parcel] 14500

@@ -1,0 +1,13 @@
+Mini-statement for account 1001 (last 10)
+Withdraw      1200
+ Deposit      1100
+ Deposit      1000
+Withdraw       900
+ Deposit       800
+ Deposit       700
+Withdraw       600
+ Deposit       500
+ Deposit       400
+Withdraw       300
+Balance: 6800
+withdraw too much: false

@@ -1,0 +1,7 @@
+Q2/q2_return_reference.cpp: In function 'int& dangling()':
+Q2/q2_return_reference.cpp:23:12: warning: reference to local variable 'local' returned [-Wreturn-local-addr]
+   23 |     return local;
+      |            ^~~~~
+Q2/q2_return_reference.cpp:22:9: note: declared here
+   22 |     int local = 42;
+      |         ^~~~~

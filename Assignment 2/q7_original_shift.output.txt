@@ -1,0 +1,3 @@
+ORIGINAL (shifting array)
+K=10     34.81 ms  newest=5000000 oldest=4999991 balance=12500002500000 sizeof=96
+K=50     60.34 ms  newest=5000000 oldest=4999951 balance=12500002500000 sizeof=416

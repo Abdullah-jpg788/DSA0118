@@ -1,0 +1,3 @@
+REDESIGN (circular buffer)
+K=10     16.89 ms  newest=5000000 oldest=4999991 balance=12500002500000 sizeof=96
+K=50     17.07 ms  newest=5000000 oldest=4999951 balance=12500002500000 sizeof=416

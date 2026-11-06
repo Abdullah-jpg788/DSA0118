@@ -1,0 +1,4 @@
+friend inline             35.73 ms  (checksum 4764997440)
+friend noinline           36.94 ms  (checksum 4764997440)
+member minutesTo          34.87 ms  (checksum 4764997440)
+public getters            32.88 ms  (checksum 4764997440)

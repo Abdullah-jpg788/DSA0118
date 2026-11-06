@@ -1,0 +1,4 @@
+205 false
+same time: 0 false
+11:59 -> 12:01: 2 (hand: 2) true
+12:01 earlier than 11:59? false
