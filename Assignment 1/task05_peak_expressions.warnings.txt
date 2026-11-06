@@ -1,0 +1,4 @@
+Task05/task05_peak_expressions.cpp: In function 'int main()':
+Task05/task05_peak_expressions.cpp:13:32: warning: suggest parentheses around '&&' within '||' [-Wparentheses]
+   13 |         bool noParens = h >= 8 && h < 10 || h >= 17 && h < 20;   // same result: && binds tighter than ||
+      |                         ~~~~~~~^~~~~~~~~

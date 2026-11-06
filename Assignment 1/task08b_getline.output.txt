@@ -1,0 +1,8 @@
+line 1: zone 0, hour 7
+line 2: zone 2, hour 9
+line 3: bad input (stoi)
+line 4: zone 1, hour 17
+line 5: bad input (stoi)
+line 6: zone 1, hour 20
+line 7: zone 5, hour 8
+line 8: zone 2, hour 18

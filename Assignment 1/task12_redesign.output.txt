@@ -1,0 +1,10 @@
+Airport weekday off-peak     expected 6000  actual 6000  PASS
+Airport weekday peak         expected 7200  actual 7200  PASS
+Airport weekend peak hour    expected 5400  actual 5400  PASS
+Outer weekend off-peak       expected 2700  actual 2700  PASS
+Inner weekday peak           expected 1200  actual 1200  PASS
+Airport weekend student      expected 2700  actual 2700  PASS
+6/6 fare tests passed
+pass, Inner:   1 balance 10000
+pass, Middle:  1 balance 10000
+pass, Airport: 0 balance 10000 (pays 6000, leaves 4000 < 5000 floor -> denied)

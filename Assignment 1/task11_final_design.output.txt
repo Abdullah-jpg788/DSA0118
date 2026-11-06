@@ -1,0 +1,4 @@
+fares loaded from file
+fare 1200 -> ok, balance 8800 paise
+fare 4200 -> denied, balance 8800 paise
+fare 2200 -> ok, balance 6600 paise

@@ -1,0 +1,9 @@
+--- OOP ---
+fare 1000 paise, balance 9000
+fare 3600 paise, balance 5400
+denied, balance 5400
+--- Procedural ---
+fare 1000 paise, balance 9000
+fare 3600 paise, balance 5400
+denied, balance 5400
+global balance can be corrupted: -999

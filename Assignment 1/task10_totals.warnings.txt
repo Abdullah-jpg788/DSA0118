@@ -1,0 +1,8 @@
+Task10/task10_totals.cpp: In function 'int main()':
+Task10/task10_totals.cpp:8:53: error: deducing from brace-enclosed initializer list requires '#include <initializer_list>'
+    3 | #include <cstdio>
+  +++ |+#include <initializer_list>
+    4 | 
+......
+    8 |     for (long long n : {20000LL, 500000LL, 3000000LL}) {
+      |                                                     ^

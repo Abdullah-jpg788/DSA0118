@@ -1,0 +1,17 @@
+Case                      ExpFare   ActFare   ExpOK   ActOK   Result
+Inner off-peak            1000      1000      1       1       PASS
+Middle off-peak           2000      2000      1       1       PASS
+Outer off-peak            3000      3000      1       1       PASS
+Inner peak morning        1200      1200      1       1       PASS
+Middle peak evening       2400      2400      1       1       PASS
+Outer peak                3600      3600      1       1       PASS
+Boundary 8:00 (peak)      1200      1200      1       1       PASS
+Boundary 10:00 (off)      1000      1000      1       1       PASS
+Boundary 17:00 (peak)     1200      1200      1       1       PASS
+Boundary 20:00 (off)      1000      1000      1       1       PASS
+Leaves exactly Rs 50      1000      1000      1       1       PASS
+Leaves Rs 49.99           1000      1000      0       0       PASS
+Student Outer peak        1800      1800      1       1       PASS
+Senior Middle off-peak    1000      1000      1       1       PASS
+14/14 tests passed
+5-journey total: 9200 paise (hand calculation: 9200) PASS

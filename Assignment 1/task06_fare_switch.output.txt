@@ -1,0 +1,12 @@
+Fare Rs 10.00 balance Rs 90
+Fare Rs 36.00 balance Rs 54
+Denied (low balance) balance Rs 54
+--- boundary hours (Outer zone) ---
+ 7:00 -> off-peak fare 3000 paise
+ 8:00 -> peak     fare 3600 paise
+ 9:00 -> peak     fare 3600 paise
+10:00 -> off-peak fare 3000 paise
+16:00 -> off-peak fare 3000 paise
+17:00 -> peak     fare 3600 paise
+19:00 -> peak     fare 3600 paise
+20:00 -> off-peak fare 3000 paise

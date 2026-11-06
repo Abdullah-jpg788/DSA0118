@@ -1,0 +1,4 @@
+Task04/task04_predict.cpp: In function 'int main()':
+Task04/task04_predict.cpp:14:18: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   14 |  std::cout << (s < u ? "s < u" : "s >= u") << '\n';
+      |                ~~^~~

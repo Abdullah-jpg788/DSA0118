@@ -1,0 +1,6 @@
+x token demo: 5
+Outer peak fare (paise): 3600
+unscoped enum as int: 2
+enum class needs a cast: 2
+macro value: 20, const: 5000, constexpr: 5000
+sizeof(Zone)=4 sizeof(BASE_PAISE)=12

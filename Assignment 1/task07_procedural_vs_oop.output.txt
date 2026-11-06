@@ -1,0 +1,7 @@
+== Procedural ==
+balance after unchecked deduct: 4000 (rule broken: < 5000)
+== OOP ==
+deduct 6000: false, balance 10000
+deduct 4000: true, balance 6000
+recharge -500: false
+recharge 2000: true, balance 8000

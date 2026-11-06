@@ -1,0 +1,12 @@
+n=   20000  exact paise=    41598800 (Rs 415988.00)
+   double rupees=415988.000000  diff from exact=0.000e+00 Rs
+   float  rupees=415988.00  diff from exact=0.00 Rs
+   int accumulator (wrapped)=41598800  ok
+n=  500000  exact paise=  1039998800 (Rs 10399988.00)
+   double rupees=10399988.000000  diff from exact=0.000e+00 Rs
+   float  rupees=10399988.00  diff from exact=0.00 Rs
+   int accumulator (wrapped)=1039998800  ok
+n= 3000000  exact paise=  6240000000 (Rs 62400000.00)
+   double rupees=62400000.000000  diff from exact=0.000e+00 Rs
+   float  rupees=61660368.00  diff from exact=-739632.00 Rs
+   int accumulator (wrapped)=1945032704  OVERFLOW

@@ -1,0 +1,12 @@
+bool 1, char 1, int 4, long long 8, unsigned 4, float 4, double 8
+int range: -2147483648 to 2147483647
+long long range: -9223372036854775808 to 9223372036854775807
+worst-case day total (paise): 10800000000  -> exceeds int
+double total : 100000.0000013329
+paise total  : 100000.00
+double error : 0.0000013329
+n=    1000  double=100.000000  exact=100.000000  error=-1.407e-12
+n=  100000  double=10000.000000  exact=10000.000000  error=1.885e-08
+n= 1000000  double=100000.000001  exact=100000.000000  error=1.333e-06
+n=10000000  double=999999.999839  exact=1000000.000000  error=-1.610e-04
+INT_MAX + 1 wraps to -2147483648 (two's complement)
